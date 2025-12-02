@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "b859e2ce9a67794c",
+    "type": "split",
+    "children": [
+      {
+        "id": "357f436d35d61ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8da7af3b7a68f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/LH - Heston Stochastic Volatility Model Calibration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LH - Heston Stochastic Volatility Model Calibration"
+            }
+          },
+          {
+            "id": "80077b6d1f56d76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/LH - Heston Stochastic Volatility Model Calibration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LH - Heston Stochastic Volatility Model Calibration"
+            }
+          },
+          {
+            "id": "c7c9d794d897eccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/Implementation Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Implementation Plan"
+            }
+          },
+          {
+            "id": "3baf7900e7f4483e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/LH - Heston Stochastic Volatility Model Calibration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LH - Heston Stochastic Volatility Model Calibration"
+            }
+          },
+          {
+            "id": "822b5df122136813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/Literature Research Heston.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Literature Research Heston"
+            }
+          },
+          {
+            "id": "b66ef1f5c39ed2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/Implementation Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Implementation Plan"
+            }
+          },
+          {
+            "id": "02b88b0f617ad042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/1 - All Notes/Quant Finance Pet Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quant Finance Pet Projects"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "551a6be49f3d282f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf941fe67377e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3797dfe5b949617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9568b07bd0d89280",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6b055a36eeb9fbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88fed5a6dfb2bea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6971b1b17e50ea4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61b461f322ca751",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "6e0f1b475eb0b93e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "aa1aec317c12dc34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02e34ff73e85542b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b66ef1f5c39ed2aa",
+  "lastOpenFiles": [
+    "Public/1 - All Notes/LH - Heston Stochastic Volatility Model Calibration.md",
+    "Public/5 - Templates/T - Dataset Note.md",
+    "Public/5 - Templates/T - People Note.md",
+    "Public/5 - Templates/T - Quick Note.md",
+    "Public/5 - Templates/T - Project MOC.md",
+    "Public/5 - Templates/T - Research Pipeline.md",
+    "Public/5 - Templates/T - To-Do List.md",
+    "Public/5 - Templates/T - Weekly Note.md",
+    "Public/5 - Templates/T - Paper Reading Workflow.md",
+    "Public/1 - All Notes/LH - Random Matrix Theory.md",
+    "Public/1 - All Notes/LH - Kalman Filter for Pairs Trading.md",
+    "Public/5 - Templates/T - Daily Note.md",
+    "Public/5 - Templates/T - Literature Hub.md",
+    "Public/5 - Templates/T - Literature Note.md",
+    "Public/5 - Templates/T - New Concept.md",
+    "Public/5 - Templates/T - New Theorem.md",
+    "Public/1 - All Notes/Literature Research Heston.md",
+    "Public/1 - All Notes/Implementation Plan.md",
+    "Public/1 - All Notes/Mission Control.md",
+    "Public/1 - All Notes/Quant Finance Pet Projects.md",
+    "Public/1 - All Notes/Quick Notes Inbox.md",
+    "Public/6 - All Images/Pasted image 20251126154241.png",
+    "Public/6 - All Images/Pasted image 20251126154229.png",
+    "Public/6 - All Images/Pasted image 20251126154213.png",
+    "Public/6 - All Images/Pasted image 20251126154101.png",
+    "Public/6 - All Images/Pasted image 20251126154033.png",
+    "Public/6 - All Images/Pasted image 20251126154016.png",
+    "Public/6 - All Images/Pasted image 20251126153954.png",
+    "Public/6 - All Images/Pasted image 20251126153935.png",
+    "Public/5 - Templates/To do list.md",
+    "Public/1 - All Notes/T - Quick Thought.md",
+    "Public/1 - All Notes/Project MOC.md",
+    "Public/5 - Templates/T-People Note.md",
+    "Public/6 - All Images/Pasted image 20250911082613.png",
+    "Public/7 - Library/Books/Mcgraw-Hill - Option Pricing And Volatility - Advanced Strategies And Trading Techniques - Sheldon Natenberg - (1994).pdf",
+    "Public/6 - All Images/Pasted image 20250914105814.png",
+    "Public/7 - Library/Source Code/Volatility Dashboard, Interactive Brokers API.py",
+    "Public/7 - Library/Source Code/Volatility Dashboard, Interactive Brokers API V2.py",
+    "Public/7 - Library/Books/_OceanofPDF.com_Trading_Options_Greeks_-_Dan_Passarelli.pdf",
+    "Public/7 - Library/Books/[Wiley Finance] Jim Gatheral, Nassim Nicholas Taleb - The Volatility Surface_ A Practitioner's Guide (Wiley Finance) (2006, Wiley) - libgen.li.pdf",
+    "Public/7 - Library/Books/Mastering Python for Finance.pdf",
+    "Public/7 - Library/Books/4c7037365a4bf1623734c1c899baed7855061ace.pdf",
+    "Public/7 - Library/Books/Machine_Learning_for_Algorithmic_Trading_Predictive.pdf",
+    "Public/7 - Library/Books/finding-alphas-a-quantitative-approach-to-building-trading-strategies.pdf",
+    "Public/7 - Library/Books/Introduction_to_Python_Programming_-_WEB.pdf"
+  ]
+}

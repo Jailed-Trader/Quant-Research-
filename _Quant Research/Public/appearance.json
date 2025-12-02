@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "Lucida Sans Unicode",
+  "textFontFamily": "Lucida Sans Unicode",
+  "monospaceFontFamily": "Lucida Sans Unicode",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
+  "accentColor": "#0008ff"
+}
